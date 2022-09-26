@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Azhar999-hub/ToDo-React-App.git/static/css/main.964ec599.css",
+    "main.js": "/Azhar999-hub/ToDo-React-App.git/static/js/main.bfd23fa2.js",
+    "static/js/787.1ebfcc96.chunk.js": "/Azhar999-hub/ToDo-React-App.git/static/js/787.1ebfcc96.chunk.js",
+    "static/media/tod-img.jpg": "/Azhar999-hub/ToDo-React-App.git/static/media/tod-img.43c01291c62f8810cfa3.jpg",
+    "index.html": "/Azhar999-hub/ToDo-React-App.git/index.html",
+    "main.964ec599.css.map": "/Azhar999-hub/ToDo-React-App.git/static/css/main.964ec599.css.map",
+    "main.bfd23fa2.js.map": "/Azhar999-hub/ToDo-React-App.git/static/js/main.bfd23fa2.js.map",
+    "787.1ebfcc96.chunk.js.map": "/Azhar999-hub/ToDo-React-App.git/static/js/787.1ebfcc96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964ec599.css",
+    "static/js/main.bfd23fa2.js"
+  ]
+}
